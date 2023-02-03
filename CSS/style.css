@@ -117,7 +117,12 @@
   padding-bottom: 20px !important;
 }
 
+.swiper-slide{
+   padding-right: 15px;
+}
+
 .swiper-slide img {
+  
   width: 100%;
 }
 
