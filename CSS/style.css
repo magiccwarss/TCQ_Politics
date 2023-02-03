@@ -104,7 +104,7 @@
 
 .general_content {
   display: flex;
-  justify-content:space-between;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 
@@ -117,12 +117,7 @@
   padding-bottom: 20px !important;
 }
 
-.swiper-slide{
-   padding-right: 15px;
-}
-
 .swiper-slide img {
-  
   width: 100%;
 }
 
@@ -160,7 +155,7 @@
 }
 
 .main_text {
-  padding-left: 15px;
+  padding: 0px 15px;
   font-family: "Noto Sans Armenian";
   font-style: normal;
   font-weight: 900;
@@ -170,7 +165,7 @@
 }
 
 .scnd_text {
-  padding-left: 15px;
+  padding: 0px 15px;
   font-family: "Noto Sans Armenian";
   font-style: normal;
   font-weight: 500;
