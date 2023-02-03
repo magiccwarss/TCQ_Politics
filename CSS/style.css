@@ -104,7 +104,7 @@
 
 .general_content {
   display: flex;
-  gap: 32px;
+  justify-content:space-between;
   flex-wrap: wrap;
 }
 
