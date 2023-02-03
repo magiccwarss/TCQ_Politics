@@ -133,7 +133,7 @@
 }
 .general_content {
     display: flex;
-    gap: 32px;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 .general_content_left {
@@ -149,6 +149,7 @@
     
 }
 .swiper-slide {
+    padding: 0px !important;
     img{
         width: 100%;
     }
@@ -190,7 +191,7 @@
     color: #8D8D8D;
 }
 .main_text {
-    padding-left: 15px;
+    padding: 0px 15px;
 
     font-family: 'Noto Sans Armenian';
     font-style: normal;
@@ -202,7 +203,7 @@
     
 }
 .scnd_text {
-    padding-left: 15px;
+    padding: 0px 15px;
 
     font-family: 'Noto Sans Armenian';
     font-style: normal;
