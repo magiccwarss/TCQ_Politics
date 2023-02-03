@@ -117,6 +117,9 @@
   padding-bottom: 20px !important;
 }
 
+.swiper-slide {
+  padding: 0px !important;
+}
 .swiper-slide img {
   width: 100%;
 }
